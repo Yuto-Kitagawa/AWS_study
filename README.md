@@ -38,7 +38,7 @@
 ## AWS Config
 > アクセスログなどの取得と監視ができるサービス。AWSアカウントのガバナンス、コインプライアンス、運用監査、リスク監査を行うことができる。**→リソースに対する監視サービス**
 
-(AWS CloudTrailとAWS Configの違い)[https://qiita.com/miyuki_samitani/items/da7ececd52af9aa94280]
+[AWS CloudTrailとAWS Configの違い](https://qiita.com/miyuki_samitani/items/da7ececd52af9aa94280)
 
 
 
