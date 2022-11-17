@@ -591,14 +591,22 @@ ELBはインスタンスのヘルスチェックを行うことができるの�
 
 
 # AI
+### 自然言語系AI
 ![自然言語系AI](https://img-c.udemycdn.com/redactor/raw/test_question_description/2022-01-15_10-32-45-af585acf056b6fcd1c767b004d803e79.png)  
 
+### 音声系AI
 ![音声系AI](https://img-c.udemycdn.com/redactor/raw/test_question_description/2022-01-15_10-26-23-ca6d5c935342c1b205485e936b733a57.png)  
 
+
+### 予測系AI
 ![予測系AI](https://img-c.udemycdn.com/redactor/raw/test_question_description/2022-01-15_10-26-49-6f0106da345811598bca1910e55788eb.png)  
 
+
+### 画像系AI
 ![画像系AI](https://img-c.udemycdn.com/redactor/raw/test_question_description/2022-01-15_10-27-20-a198e28fde72df822e8abeaf3be27656.png)  
 
+
+### AI開発ツール
 ![AI開発ツール](https://img-c.udemycdn.com/redactor/raw/test_question_description/2022-01-15_10-27-53-5b9873cdc36e9cdbeef151e9668a503b.png)
 
 
