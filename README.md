@@ -450,11 +450,11 @@ ELBはインスタンスのヘルスチェックを行うことができるの�
 
 ### AWS Glue
 > データ分析用に抽出したIoTデータの変換作業ができる
->> #### AWS Glue Data Catalog  
+> ### AWS Glue Data Catalog  
 >> 必要なデータを検出し、アクセスすることができる
->> #### AWS Glue Studio
+> ### AWS Glue Studio
 >> 視覚的にETL(抽出・変換・読み込み)の処理を作成して実行する。
->> #### AWS Glue DataBrew
+> ### AWS Glue DataBrew
 >> 機械学習前のデータを正規化できる。(ノーコード)
 
 ### Amazon Elastic Transcoder
